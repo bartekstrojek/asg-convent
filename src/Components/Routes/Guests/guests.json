@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "slug": "rojo",
+        "name": "ROJO",
+        "description": "Koneser życia i gier. Groznawca, ludolog i socjolog nowych mediów. Twórca największych w kraju integracyjnych imprez sportowych PZR (Paintball z Rojem) i AZR (Airsoft z Rojem)",
+        "image": "rojo.png",
+        "facebook": "https://www.facebook.com/ROJOV13",
+        "instagram": "https://www.instagram.com/rojsonofficial/",
+        "youtube": "https://www.youtube.com/@ROJSON"
+    },
+    {
+        "id": 2,
+        "slug": "virus",
+        "name": "Virus Airsoft",
+        "description": "Aktywny gracz, instruktor, twórca treści.",
+        "image": "virus.png",
+        "facebook": "https://www.facebook.com/profile.php?id=100089358471144",
+        "instagram": "https://www.instagram.com/virus_lotnik91/",
+        "youtube": "https://www.youtube.com/channel/UCdeg_G0H4784EpyQ3I9iDvg"
+    },
+    {
+        "id": 2,
+        "slug": "maniek",
+        "name": "Maniek44",
+        "description": "Aktywny gracz, youtuber, montażysta, fotograf, twórca treści.",
+        "image": "maniek-44.png",
+        "facebook": "https://www.facebook.com/Maniek44",
+        "instagram": "https://www.instagram.com/the_maniek44/",
+        "youtube": "https://www.youtube.com/maniek_44"
+    }
+    
+]

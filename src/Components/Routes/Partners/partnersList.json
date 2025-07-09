@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "slug": "playair-pro",
+        "name": "Playair.pro",
+        "description": "Playair.pro jest darmową Polską Platformą airsoftową skupiającą graczy oraz organizatorów gier.",
+        "image": "playair-pro-logo.png",
+        "link": "https://playair.pro",
+        "facebook": "https://www.facebook.com/platforma.playair.pro"
+    },
+    {
+        "id": 2,
+        "slug": "asg-krakow-arena",
+        "name": "ASG Kraków Arena",
+        "description": "ASG Kraków Arena to miejsce, w którym każdy miłośnik ASG znajdzie coś dla siebie.",
+        "image": "asg-krakow-arena-logo.png",
+        "link": "https://www.asgkrakowarena.com/",
+        "facebook": "https://www.facebook.com/AsgKrakowArena"
+    },
+    {
+        "id": 3,
+        "slug": "marsh",
+        "name": "MARSH",
+        "description": "MARSH jest największą grą airsoftową w Polsce.",
+        "image": "marsh-logo.png",
+        "link": "https://marshairsoft.pl/",
+        "facebook": "https://www.facebook.com/Marsh.Airsoft.Events",
+        "youtube": "https://www.youtube.com/@marsh.events",
+        "instagram": "https://www.instagram.com/marsh.airsoft.events/"
+    },
+    {
+        "id": 4,
+        "slug": "gamma",
+        "name": "GAMMA EVENTS",
+        "description": "Gamma Events jest młodą organizacją tworzącą wydarzenia airsoftowe, które mają na celu dostarczenie uczestnikom niezapomnianych wrażeń.",
+        "image": "gamma-events-logo.png",
+        "facebook": "https://www.facebook.com/profile.php?id=61566457677675"
+    },
+    {
+        "id": 5,
+        "slug": "airsoft-zone",
+        "name": "AIRSOFT ZONE",
+        "description": "Austriacki sklep airsoftowy. Jeden z największych na świecie.",
+        "image": "airsoft-zone-logo.png",
+        "link": "https://www.airsoftzone.com/pl-pl/",
+        "facebook": "https://www.facebook.com/airsoftzonecom/#",
+        "instagram": "https://www.instagram.com/airsoftzonecom/",
+        "youtube": "https://www.youtube.com/c/Airsoftzonecom/featured"
+    },
+    {
+        "id": 6,
+        "slug": "ashm",
+        "name": "Airsoft Historyczny Małopolska",
+        "description": "Małopolska grupa z potężna wiedzą historyczną, niebagatelnym doświadczeniem i nietuzinkowymi postaciami.",
+        "image": "ashm-logo.png",
+        "facebook": "https://www.facebook.com/ASHMalopolska"
+    },
+    {
+        "id": 7,
+        "slug": "empire",
+        "name": "Empire Airsoft",
+        "description": "Sklep airsoftowy, który jest szeroko znany w Wielkiej Brytanii. Od niedawna ma swoją siedzibę również w Polsce.",
+        "image": "empire-logo.png",
+        "link": "https://www.empireairsoft.eu/",
+        "facebook": "https://www.facebook.com/empireairsoft.eu/",
+        "instagram": "https://www.instagram.com/empireairsoft.eu",
+        "youtube": "https://www.youtube.com/@EmpireAirsoft"
+    },
+    {
+        "id": 8,
+        "slug": "gate",
+        "name": "Gate Enterprise",
+        "description": "Polska firma zajmująca się m.in. produkcją układów elektronicznych oraz silników HP do replik airsoftowych.",
+        "image": "gate-logo.png",
+        "link": "https://pl.gatee.eu/",
+        "facebook": "https://www.facebook.com/gatee",
+        "instagram": "https://www.instagram.com/gateenterprise/",
+        "youtube": "https://www.youtube.com/gatemovies"
+    },
+    {
+        "id": 9,
+        "slug": "ipsc",
+        "name": "IPSC Polska - AA IPSC",
+        "description": "Międzynarodowa Konfederacja Strzelectwa Praktycznego ( IPSC ) jest największą na świecie organizacją sportów strzeleckich , a także największą i najstarszą w strzelectwie praktycznym .",
+        "image": "ipsc-logo.png",
+        "link": "https://ipsc-pl.org/",
+        "facebook": "https://www.facebook.com/IPSCPolska",
+        "instagram": "https://www.instagram.com/ipscpolska/",
+        "youtube": "https://www.youtube.com/@IPSCRegionPolska"
+    },
+    {
+        "id": 10,
+        "slug": "sklepasg",
+        "name": "Sklepasg.pl",
+        "description": "Sklep z artykułami airsoftowymi mieszczący się w Krakowie. Oferują szeroki asortyment replik, akcesoriów oraz odzieży. Dodatkowo prowadzą jeden z najlepszych serwisów replik.",
+        "image": "sklep-asg-logo.png",
+        "link": "https://sklepasg.pl/",
+        "facebook": "https://www.facebook.com/sklepasg"
+    },
+    {
+        "id": 11,
+        "slug": "krakowski-Konwent-Airsoftowy",
+        "name": "Krakowski Konwent Airsoftowy",
+        "description": "Protoplasta obecnej formy Konwentu Airsoftowego. Pierwszy Konwent Airsoftowy w Polsce organizowany rokrocznie w latach 2020-2024.",
+        "image": "krakowski-konwent-logo.png"
+    }
+]
